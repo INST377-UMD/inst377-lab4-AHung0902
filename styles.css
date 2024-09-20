@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue; /* Set the initial background color to blue */
+}
+
+.section {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    background-color: lightgray; /* Default section background */
+}
+
+#alertMeSection {
+    background-color: lightgreen; /* Alert Me Section background */
+}
+
+#changeColorSection {
+    background-color: lightyellow; /* Change Color Section background */
+}
+
+#textTesterSection {
+    background-color: lightcoral; /* Text Tester Section background */
+}
+
+#addTextSection {
+    background-color: lightblue; /* Add Text Section background */
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+input {
+    margin: 5px 0;
+}
